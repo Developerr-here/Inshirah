@@ -53,7 +53,7 @@ export const lecturesData: Lecture[] = [
     description:
       "Deep examination of the foundational Prophetic tradition: 'Actions are according to intentions'. Exploring its linguistic context and role across all Islamic sciences.",
     featured: true,
-    thumbnail: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    thumbnail: "https://images.unsplash.com/photo-1589763792793-ee70193fd58d?auto=format&fit=crop&w=800&q=80",
     language: "Bilingual (Urdu & English)" as any,
     keyTopics: ["Ikhlas vs. Riya (Showing off)", "Scholarly commentary by Imam Shafi'i", "Habit into Worship"],
     isDemo: true,
@@ -148,7 +148,7 @@ export const lecturesData: Lecture[] = [
     description:
       "The four trials highlighted in Surah Al-Kahf (Faith, Wealth, Knowledge, Power) and the spiritual anchors provided by the Quran to withstand them.",
     featured: false,
-    thumbnail: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    thumbnail: "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?auto=format&fit=crop&w=800&q=80",
     language: "Urdu",
     keyTopics: ["Trial of Faith (People of the Cave)", "Trial of Knowledge (Musa & Al-Khidr)", "Friday Sunnah"],
     isDemo: true,

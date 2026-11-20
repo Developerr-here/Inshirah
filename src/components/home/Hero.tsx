@@ -90,8 +90,8 @@ export default function Hero() {
                 {/* Architectural Dome / Islamic Learning Atmosphere */}
                 <div className="relative aspect-[4/3] w-full">
                   <img
-                    src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=85"
-                    alt="Classical Quranic text and architectural sanctuary of knowledge"
+                    src="https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=1200&q=85"
+                    alt="Majestic illuminated mosque dome sanctuary of Islamic knowledge"
                     className="w-full h-full object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#071F38] via-transparent to-black/30" />
